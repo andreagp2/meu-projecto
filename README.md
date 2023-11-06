@@ -1,1 +1,4 @@
-# meu-projecto/versionamento
+# curso digital:git
+
+## salvando alterações no git
+*comando git push
